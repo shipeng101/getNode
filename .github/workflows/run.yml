@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@main  #采用main分支下的
       - name: Download the subscribe
         run: |
-          sh ./run.sh
+          sh ./rn.sh
       - name: Commit Changes
         run: |
          git config --global user.email flik@92coco.cn
@@ -28,7 +28,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.TOKEN }}
+          github_token: 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
           branch: main
           force_with_lease: true
           directory: .
