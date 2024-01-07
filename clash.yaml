@@ -10,14 +10,14 @@ proxies:
   - {name: SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379, server: 167.88.61.175, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
   - {name: SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601, server: 145.239.1.100, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: SS-德国:英国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: SS-德国:荷兰-locked-ChatGPT-YouTubePrem-145.239.1.100:5500, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803, server: 134.195.196.178, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003, server: 167.88.61.175, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: SS-波兰:俄罗斯联邦-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601, server: 54.36.174.181, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000, server: 38.143.66.87, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: SS-德国:英国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001, server: 145.239.1.100, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: SS-德国:新加坡-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001, server: 145.239.1.100, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000, server: 38.75.136.21, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306, server: 54.36.174.181, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443, server: 54.36.174.181, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
@@ -1176,14 +1176,14 @@ proxy-groups:
       - SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379
       - SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601
-      - SS-德国:英国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
+      - SS-德国:荷兰-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803
       - SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003
       - SS-波兰:俄罗斯联邦-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000
-      - SS-德国:英国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
+      - SS-德国:新加坡-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
       - SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443
@@ -2331,14 +2331,14 @@ proxy-groups:
       - SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379
       - SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601
-      - SS-德国:英国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
+      - SS-德国:荷兰-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803
       - SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003
       - SS-波兰:俄罗斯联邦-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000
-      - SS-德国:英国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
+      - SS-德国:新加坡-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
       - SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443
@@ -4020,6 +4020,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - SS-德国:新加坡-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
       - "1,2,3,4,6,7,17|🇳🇿_NZ_新西兰 #5"
       - 7,11|美国新泽西州Linode公司 41
       - 10|🇸🇬新加坡04
