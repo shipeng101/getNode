@@ -9,15 +9,15 @@ proxies:
   - {name: SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:806, server: 134.195.196.178, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379, server: 167.88.61.175, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-  - {name: SS-德国:英国-locked-ChatGPT-TikTok-145.239.1.100:5601, server: 145.239.1.100, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: SS-德国:新加坡-locked-ChatGPT-YouTubePrem-145.239.1.100:5500, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601, server: 145.239.1.100, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: SS-德国:法国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500, server: 145.239.1.100, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
   - {name: SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803, server: 134.195.196.178, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443, server: 212.102.53.81, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003, server: 167.88.61.175, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
   - {name: SS-波兰-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601, server: 54.36.174.181, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000, server: 38.143.66.87, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-  - {name: SS-德国:法国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001, server: 145.239.1.100, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: SS-德国:荷兰-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001, server: 145.239.1.100, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000, server: 38.75.136.21, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306, server: 54.36.174.181, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
   - {name: SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443, server: 54.36.174.181, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
@@ -243,69 +243,69 @@ proxies:
   - {name: 15|🇮🇳 印度|频道:@ripaojiedian, server: service.ouluyun9803.com, port: 21003, type: ss, cipher: chacha20-ietf-poly1305, password: 0cb14ab8-b3b8-44a1-8b4a-5a6f8317de01, udp: true}
   - {name: 16|香港1|@ripaojiedian, server: 112.28.208.10, port: 45055, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: 16|日本|频道:@ripaojiedian, server: jp04-alt-vm0.entry.srthdw.art, port: 446, type: vmess, uuid: 604010bd-80fa-36e7-8095-23aef19529bb, alterId: 1, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-  - {name: cc610763d92c47fd9cdfcc503cc8d5a1_@_⚠️e@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws}, udp: true}
-  - {name: 4289b34ace414365ae669a10b232ef63_@_t.me/ConfigsHub, server: 188.114.97.1, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, servername: odelia.autos, network: ws, ws-opts: {path: linkvws}, udp: true}
-  - {name: bd289875f7614bab9c2878dcc0c732db_@_t.me/ConfigsHub, server: 188.114.97.3, port: 80, type: vmess, uuid: a2aa54ac-5821-454d-ae2e-d2785866c89b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "f404a6054f0d?ed=2048"}, udp: true}
-  - {name: 45e42651305f4f27aa22b2ff31593574_@_@Hope_Net-join-us-on-Telegram, server: 172.67.151.115, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: d66d80648ed54a269a1c48931577815c_@_@Hope_Net-join-us-on-Telegram, server: 172.67.158.147, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 813d8150b5564470acca8af1aea5194e_@_@Hope_Net-join-us-on-Telegram, server: de1.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: de1.ircf.eu.org}}, udp: true}
-  - {name: b6e698abcb524c08ab6757d5a33737bf_@_@Hope_Net-join-us-on-Telegram, server: 104.17.110.63, port: 80, type: vmess, uuid: f9ab87c5-c542-4c10-a486-b59c91550787, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true}
-  - {name: a8d70b0eded74defb0639cd70c49b6b8_@_@Hope_Net-join-us-on-Telegram, server: mtnc.nimserver.top, port: 443, type: vmess, uuid: 2a456600-5611-4d90-964a-8eb6fcd6048b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rs2.nimserver.top, network: ws, ws-opts: {path: /vmess, headers: {Host: mtnc.nimserver.top}}, udp: true}
-  - {name: 517113ce67b04aaeaac2dd8206066378_@_@Hope_Net-join-us-on-Telegram, server: ophelia.mom, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
-  - {name: cd267d1af7854fc18a798592f3b2db6e_@_@Hope_Net-join-us-on-Telegram, server: oliv.beauty, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
-  - {name: 612b13538c81420b9a6592743109deec_@_@Hope_Net-join-us-on-Telegram, server: 172.67.214.41, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss13889}, udp: true}
-  - {name: 194d827971734e209d18513975ce0534_@_@Hope_Net-join-us-on-Telegram, server: 172.67.216.80, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 2afa35241991448ca00411707036a769_@_@Hope_Net-join-us-on-Telegram, server: 172.67.216.97, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 04c72b966adf445f9ee03841ad04db79_@_@Hope_Net-join-us-on-Telegram, server: 172.67.237.176, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: d80fa4074af549d69b0e9d0c562adcc4_@_@Hope_Net-join-us-on-Telegram, server: 172.67.237.73, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: d6fa1b3290744868a0ac0757f8ab3276_@_@Hope_Net-join-us-on-Telegram, server: 172.67.238.152, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 02d5cc7855844b78a2b5310b445f3d96_@_@Hope_Net-join-us-on-Telegram, server: 172.67.242.38, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss13889}, udp: true}
-  - {name: 5e91d8f2ed174a8f84ed9a604aaf4b99_@_@Hope_Net-join-us-on-Telegram, server: 172.67.244.14, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 6f2c1233ef224678886f20cb6e50c8a7_@_@Hope_Net-join-us-on-Telegram, server: uk2.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: uk2.ircf.eu.org}}, udp: true}
-  - {name: 7c0313e9c6c447bba52093ce259cdf9b_@_@Hope_Net-join-us-on-Telegram, server: fr3.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: fr3.ircf.eu.org}}, udp: true}
-  - {name: ca49c928186b45279f8cfb63930c3e5c_@_@Hope_Net-join-us-on-Telegram, server: 172.67.212.44, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: 4a47e680}, udp: true}
-  - {name: 3604356852dd4554b5857bb1eb51d626_@_@Hope_Net-join-us-on-Telegram, server: 172.67.212.68, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: db9dc993d2bc42d690e9bd117f0117cc_@_@Hope_Net-join-us-on-Telegram, server: 172.67.214.41, port: 443, type: vmess, uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss51068}, udp: true}
-  - {name: c99feafab4d94095a67a427a80235199_@_@Hope_Net-join-us-on-Telegram, server: kkyx.yydsii.com, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kkyx.yydsii.com}}, udp: true}
-  - {name: 4b0c5f77cd334ecd9111badf863237c4_@_@Hope_Net-join-us-on-Telegram, server: v2line.telegram.channel.1388.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: vmess, uuid: 2b4a8468-d9c5-4551-8f20-811d2c998dcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /racevpn, headers: {Host: v2line.telegram.channel.1388.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou}}, udp: true}
-  - {name: 150e911445ad42a6b1b78f7dcf2d453b_@_🚸9@oneclickvpnkeys, server: kom645yj.sbs, port: 32902, type: vmess, uuid: f7388a5e-8ae2-4e5a-bdbe-b8b29e172ec2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kom645yj.sbs}}, udp: true}
-  - {name: 5b3790b9250e4a8588879aa6d9039a7c_@_@Hope_Net-join-us-on-Telegram, server: 172.67.191.240, port: 80, type: vmess, uuid: 92eb32af-ec3c-40d4-ab83-c3df80af64af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 18e712ecbe5e456d8ca451fa46cb5e1e_@_@Hope_Net-join-us-on-Telegram, server: 172.67.192.191, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: cc1f192977b34de4a0cd253367f54868_@_@Hope_Net-join-us-on-Telegram, server: fr-full.privateip.net, port: 443, type: vmess, uuid: 04695962-ec9f-4589-b962-263e7b55664c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: fr-full.privateip.net}}, udp: true}
-  - {name: 26b251b031fe4174ac3d0c4a08f92c3d_@_@Hope_Net-join-us-on-Telegram, server: es-full.privateip.net, port: 443, type: vmess, uuid: 92803f2f-9a3b-496c-9650-a2b501569940, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: es-full.privateip.net}}, udp: true}
-  - {name: ff63e0239ced43c181e668e4b095ea0b_@_@Hope_Net-join-us-on-Telegram, server: uk-full.privateip.net, port: 443, type: vmess, uuid: 3033d51d-2719-4672-8660-8aacb8d13848, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: uk-full.privateip.net}}, udp: true}
-  - {name: 9d0aff4370434ad89294d1faa4acca2b_@_@Hope_Net-join-us-on-Telegram, server: 172.67.147.162, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 27848243ef884adc8e0874acbdc4355b_@_@Hope_Net-join-us-on-Telegram, server: 172.67.150.82, port: 443, type: vmess, uuid: e35026da-e985-49ca-b43b-276062a535a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /pNV7izRFLO8rGCkIH66kMFPa}, udp: true}
-  - {name: 050e5a96c66a422b9fa9df23bfef9b81_@_⛔10@oneclickvpnkeys, server: 5.161.142.147, port: 34244, type: vmess, uuid: 262b4c56-25cd-4db5-a07d-eeab69dfc6e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: b80185335e0e42088610419d0d2aed61_@_@Hope_Net-join-us-on-Telegram, server: 172.67.122.127, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 0e87ecd37973408dba0cccbe05696c27_@_@Hope_Net-join-us-on-Telegram, server: 172.67.122.83, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 2ef3b76eb11e4198a84e343d624973a9_@_@Hope_Net-join-us-on-Telegram, server: 172.67.128.37, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 252fd345ad2b4235a04c2e6046c6c77e_@_@Hope_Net-join-us-on-Telegram, server: 172.67.13.197, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: cc89947a8e72485287bd0d852ee807c8_@_@Hope_Net-join-us-on-Telegram, server: 172.67.131.245, port: 80, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dT9s3HqgZeD3eApzDAfhOHq}, udp: true}
-  - {name: 6d66938a299d4ba7aec70234de319495_@_@Hope_Net-join-us-on-Telegram, server: 172.67.132.15, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray}, udp: true}
-  - {name: 08fe6f5ac5d54f59a350c0d1b2d802b2_@_@Hope_Net-join-us-on-Telegram, server: 172.67.135.195, port: 443, type: vmess, uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss51068}, udp: true}
-  - {name: 9726ac36b8ec4ac58d1021ae5dda3937_@_@Hope_Net-join-us-on-Telegram, server: 172.67.136.19, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 032074cb4099437c863b4af1da7863ad_@_@Hope_Net-join-us-on-Telegram, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
-  - {name: d91007f789d14e558d19239e6cf03aba_@_@Hope_Net-join-us-on-Telegram, server: 45.58.153.25, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1702961716738}, udp: true}
-  - {name: efaa902e41254ccf95dc59fea45e0545_@_@Hope_Net-join-us-on-Telegram, server: 45.58.178.58, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: www.24483868.xyz, network: ws, ws-opts: {path: /path/282428170310}, udp: true}
-  - {name: 7b9cb7e04e404249a168d526500ba178_@_@Hope_Net-join-us-on-Telegram, server: 172.67.229.39, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true}
-  - {name: e869c663653f44a1bf41c04aa860e564_@_@Hope_Net-join-us-on-Telegram, server: 104.17.184.241, port: 80, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: 1bb3403c3b4948a3b95e55200f8fa36f_@_t.me/ConfigsHub, server: 0000:0000:0000:0000:0000:ffff:6810:0000, port: 80, type: vmess, uuid: 1f310f26-08cf-482e-80ee-5cd62f4fc6b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xui}, udp: true}
-  - {name: 58aba483a32b4f7789312208df00b294_@_t.me/ConfigsHub, server: glasco.fx-trader.shop, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: glasco.fx-trader.shop}}, udp: true}
-  - {name: 954306cc806542a684fe158d120489c8_@_t.me/ConfigsHub, server: 45.58.153.24, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: www.77935707.xyz, network: ws, ws-opts: {path: /path/1702392255355}, udp: true}
-  - {name: 7190c2d27510425ea96e442356ad0e56_@_t.me/ConfigsHub, server: 172.67.64.215, port: 80, type: vmess, uuid: 62b024bb-3e45-41eb-e8ff-60502a4e791d, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vui2}, udp: true}
-  - {name: a39e516e29434ff6a836fc989d840f9b_@_@Hope_Net-join-us-on-Telegram, server: 172.66.47.74, port: 80, type: vmess, uuid: 3339ad80-7964-438a-8622-b565112df7cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray?ed=2048"}, udp: true}
-  - {name: bf6bad56633d42229f5e929f1bcc02f2_@_@Hope_Net-join-us-on-Telegram, server: obdii.cfd, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}, udp: true}
-  - {name: 588e6e745c1f4e7eaf9bba9a811c6431_@_@Hope_Net-join-us-on-Telegram, server: alvvin.click, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: alvvin.click, network: ws, ws-opts: {path: linkvws, headers: {Host: alvvin.click}}, udp: true}
-  - {name: 09b9857fc0684ddcb63861d50ec08056_@_@Hope_Net-join-us-on-Telegram, server: 104.234.11.159, port: 80, type: vmess, uuid: 48d0d388-ea9d-48f4-929c-e53d7ecb46ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /48d0d388}, udp: true}
-  - {name: 0c132400566f42a8adf00bde3fecdc36_@_@Hope_Net-join-us-on-Telegram, server: forward4444.maryam1500.top, port: 2087, type: vmess, uuid: b4e01707-8a8a-449a-a185-859c603ec329, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: grpc, servername: forward4444.maryam1500.top, grpc-opts: {grpc-service-name: /}, udp: true}
-  - {name: c4b2dd63c7c349589bf0edd906c066af_@_@Hope_Net-join-us-on-Telegram, server: 172.67.160.99, port: 443, type: vmess, uuid: a869c557-5c7d-426f-9039-0279c16352bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vmessws}, udp: true}
-  - {name: 881c87e3b29446d19b4274f32800ecbc_@_t.me/ConfigsHub, server: db1e3fa2-9236-43f2-835a-4e98d32a0790.xn--yusw35d.xyz, port: 50904, type: vmess, uuid: 8d2e5158-93d7-4d71-9d4f-2defb0b78eee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: db1e3fa2-9236-43f2-835a-4e98d32a0790.xn--yusw35d.xyz}}, udp: true}
-  - {name: 76e7c178bef94ae9949007a3efbe7b7e_@_@Hope_Net-join-us-on-Telegram, server: 104.21.91.73, port: 443, type: vmess, uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: adenc35.fixedlfoat.top, network: ws, ws-opts: {path: /linkws}, udp: true}
-  - {name: e351ac8a9cc74d98aaa7ff80d526b149_@_@Hope_Net-join-us-on-Telegram, server: 172.67.184.53, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cloudconeaaa}, udp: true}
-  - {name: dca9e1a7639a4e7ca21e0f7cce2a0783_@_@Hope_Net-join-us-on-Telegram, server: 172.67.188.110, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: a419304ec7404668b36dfbe03f4afa60_@_@Hope_Net-join-us-on-Telegram, server: 172.67.189.8, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
-  - {name: 2599c83eb16d4648a5ae13b0c26593d9_@_@Hope_Net-join-us-on-Telegram, server: 172.67.19.97, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: a8dec46b15914051a787044fbd9ef265_@_⚠️e@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws}, udp: true}
+  - {name: b7dda48ce45643758272e4ac41bd1aa8_@_t.me/ConfigsHub, server: 188.114.97.1, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, servername: odelia.autos, network: ws, ws-opts: {path: linkvws}, udp: true}
+  - {name: 786895e3ce834580962a73bf054cfd15_@_t.me/ConfigsHub, server: 188.114.97.3, port: 80, type: vmess, uuid: a2aa54ac-5821-454d-ae2e-d2785866c89b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "f404a6054f0d?ed=2048"}, udp: true}
+  - {name: fd33270a96e040779b178766383c9b8b_@_@Hope_Net-join-us-on-Telegram, server: 172.67.151.115, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 3050e69325d94bd789230e4dbce3641d_@_@Hope_Net-join-us-on-Telegram, server: 172.67.158.147, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: caec79705a3a4129ba233edb2ee32d2d_@_@Hope_Net-join-us-on-Telegram, server: de1.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: de1.ircf.eu.org}}, udp: true}
+  - {name: 07267fd15cc04c7da90aa7130ace9d1f_@_@Hope_Net-join-us-on-Telegram, server: 104.17.110.63, port: 80, type: vmess, uuid: f9ab87c5-c542-4c10-a486-b59c91550787, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true}
+  - {name: c231f97e793c415dbc3842d8ac8aaf9d_@_@Hope_Net-join-us-on-Telegram, server: mtnc.nimserver.top, port: 443, type: vmess, uuid: 2a456600-5611-4d90-964a-8eb6fcd6048b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: rs2.nimserver.top, network: ws, ws-opts: {path: /vmess, headers: {Host: mtnc.nimserver.top}}, udp: true}
+  - {name: 9a82feadf0904648a560e7fcf2c0149c_@_@Hope_Net-join-us-on-Telegram, server: ophelia.mom, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: ophelia.mom, network: ws, ws-opts: {path: linkvws, headers: {Host: ophelia.mom}}, udp: true}
+  - {name: dd7ad423a7584fdaa9943b1121c33b5a_@_@Hope_Net-join-us-on-Telegram, server: oliv.beauty, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: linkvws, headers: {Host: oliv.beauty}}, udp: true}
+  - {name: b04609e2c8244e7993cac235a1710ee4_@_@Hope_Net-join-us-on-Telegram, server: 172.67.214.41, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss13889}, udp: true}
+  - {name: 1ac2b23387b74e05abca1dcc4b93c82e_@_@Hope_Net-join-us-on-Telegram, server: 172.67.216.80, port: 8080, type: vmess, uuid: 0ea60ebb-632d-4226-893a-cccc2053dbf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 4776464cb50a4336a17db7d12ad47639_@_@Hope_Net-join-us-on-Telegram, server: 172.67.216.97, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 5416ea0399bc45a59f5baf4c6661062b_@_@Hope_Net-join-us-on-Telegram, server: 172.67.237.176, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: b65addb6155d433d8855ae148d624d2a_@_@Hope_Net-join-us-on-Telegram, server: 172.67.237.73, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 5e4dcca310014b208896f0dcaa9d1994_@_@Hope_Net-join-us-on-Telegram, server: 172.67.238.152, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: e38b28d83f9943d7ad80a55e303632cb_@_@Hope_Net-join-us-on-Telegram, server: 172.67.242.38, port: 443, type: vmess, uuid: 824c58b1-65ba-4680-a609-663a000dbb92, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss13889}, udp: true}
+  - {name: fbb4da5a619a45618b47f549687716d4_@_@Hope_Net-join-us-on-Telegram, server: 172.67.244.14, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 9ed5deae72074cde8e096b71a4bb123a_@_@Hope_Net-join-us-on-Telegram, server: uk2.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: uk2.ircf.eu.org}}, udp: true}
+  - {name: 0fe4e19f49644c6296fc12480fc71f51_@_@Hope_Net-join-us-on-Telegram, server: fr3.ircf.eu.org, port: 8080, type: vmess, uuid: d612bbf3-14d0-4d1d-a21c-166e98a3b49c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /@x2rayn_vpn@x2rayn_vpn@x2rayn_vpn, headers: {Host: fr3.ircf.eu.org}}, udp: true}
+  - {name: 0d67ab08834147bfa4d4ac45736daca2_@_@Hope_Net-join-us-on-Telegram, server: 172.67.212.44, port: 80, type: vmess, uuid: 4a47e680-d860-4e63-9fa6-813857fb0f42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: 4a47e680}, udp: true}
+  - {name: d0fcc462152545618598b9c4c23cb829_@_@Hope_Net-join-us-on-Telegram, server: 172.67.212.68, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: ebc6159b35ba4963b0537d58184ddd41_@_@Hope_Net-join-us-on-Telegram, server: 172.67.214.41, port: 443, type: vmess, uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss51068}, udp: true}
+  - {name: 404a9b8a2469488e9aecd5be2637aa20_@_@Hope_Net-join-us-on-Telegram, server: kkyx.yydsii.com, port: 2052, type: vmess, uuid: 2dbeeb76-a71f-493f-bd92-33f0193291c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kkyx.yydsii.com}}, udp: true}
+  - {name: 1ca41acc931f46aca7ab24e6fd78250f_@_@Hope_Net-join-us-on-Telegram, server: v2line.telegram.channel.1388.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: vmess, uuid: 2b4a8468-d9c5-4551-8f20-811d2c998dcd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /racevpn, headers: {Host: v2line.telegram.channel.1388.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou}}, udp: true}
+  - {name: acee27b659da4884891238dfba8021c0_@_🚸9@oneclickvpnkeys, server: kom645yj.sbs, port: 32902, type: vmess, uuid: f7388a5e-8ae2-4e5a-bdbe-b8b29e172ec2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: kom645yj.sbs}}, udp: true}
+  - {name: 1a118c1e54a24e299fb04200186321d4_@_@Hope_Net-join-us-on-Telegram, server: 172.67.191.240, port: 80, type: vmess, uuid: 92eb32af-ec3c-40d4-ab83-c3df80af64af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: de609b406da6431e90bf2c5e65861f90_@_@Hope_Net-join-us-on-Telegram, server: 172.67.192.191, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: ab14a33cf4814b6bb3fe7c3984c01b50_@_@Hope_Net-join-us-on-Telegram, server: fr-full.privateip.net, port: 443, type: vmess, uuid: 04695962-ec9f-4589-b962-263e7b55664c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: fr-full.privateip.net}}, udp: true}
+  - {name: 4c5e59c2bc1e430fa439bce58163d3e4_@_@Hope_Net-join-us-on-Telegram, server: es-full.privateip.net, port: 443, type: vmess, uuid: 92803f2f-9a3b-496c-9650-a2b501569940, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: es-full.privateip.net}}, udp: true}
+  - {name: 9f8d1049aeda4a0095bdad83db7dc4b0_@_@Hope_Net-join-us-on-Telegram, server: uk-full.privateip.net, port: 443, type: vmess, uuid: 3033d51d-2719-4672-8660-8aacb8d13848, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /RACEVPN, headers: {Host: uk-full.privateip.net}}, udp: true}
+  - {name: 510bd6466ab6435da6c8efd1284fef06_@_@Hope_Net-join-us-on-Telegram, server: 172.67.147.162, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 7271239b277346ac809503c058ab5ef4_@_@Hope_Net-join-us-on-Telegram, server: 172.67.150.82, port: 443, type: vmess, uuid: e35026da-e985-49ca-b43b-276062a535a6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /pNV7izRFLO8rGCkIH66kMFPa}, udp: true}
+  - {name: c849a20b751947639d693c7f9fed1deb_@_⛔10@oneclickvpnkeys, server: 5.161.142.147, port: 34244, type: vmess, uuid: 262b4c56-25cd-4db5-a07d-eeab69dfc6e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: 7a8bee4060674dccbd4f115ab9f99275_@_@Hope_Net-join-us-on-Telegram, server: 172.67.122.127, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 67fa8b0974e142a8ba4754cbeab3609b_@_@Hope_Net-join-us-on-Telegram, server: 172.67.122.83, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 94ec0198e2e54b59a0cabe84da8a3cfa_@_@Hope_Net-join-us-on-Telegram, server: 172.67.128.37, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 3df754fe6b23440d910a78a7ad8b7a74_@_@Hope_Net-join-us-on-Telegram, server: 172.67.13.197, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 277ecd65d0d74e74a6420cf03744540a_@_@Hope_Net-join-us-on-Telegram, server: 172.67.131.245, port: 80, type: vmess, uuid: 0b65bb06-6b28-487a-8e3c-820dda51e977, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dT9s3HqgZeD3eApzDAfhOHq}, udp: true}
+  - {name: 39a82b11b31a422c85db0eeeb630932e_@_@Hope_Net-join-us-on-Telegram, server: 172.67.132.15, port: 443, type: vmess, uuid: 18e5f40f-bda6-4c15-9334-e87cda6047af, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /ray}, udp: true}
+  - {name: d2233982df5e41d4b9e90133f7506dfb_@_@Hope_Net-join-us-on-Telegram, server: 172.67.135.195, port: 443, type: vmess, uuid: b3a21def-5fcc-47a8-a6a0-a34e29d5288a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /wss51068}, udp: true}
+  - {name: 28570ec520474b4baf857a231144a0b1_@_@Hope_Net-join-us-on-Telegram, server: 172.67.136.19, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 02fca9e37c3a4e60b92638cd0f7af3ea_@_@Hope_Net-join-us-on-Telegram, server: a3.bcbot.in, port: 8880, type: vmess, uuid: ce9aadc8-8c6e-4867-d247-9a84b469ac27, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: a3.bcbot.in}}, udp: true}
+  - {name: 67095600708d451ba2143a702a99fad7_@_@Hope_Net-join-us-on-Telegram, server: 45.58.153.25, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /path/1702961716738}, udp: true}
+  - {name: 360f6faa86fd48be8e0fd4670aeef437_@_@Hope_Net-join-us-on-Telegram, server: 45.58.178.58, port: 30000, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: www.24483868.xyz, network: ws, ws-opts: {path: /path/282428170310}, udp: true}
+  - {name: cf00c6eafacd46f6a27d5203e514c099_@_@Hope_Net-join-us-on-Telegram, server: 172.67.229.39, port: 2086, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true}
+  - {name: a5a72e205f08422eb98987808128057d_@_@Hope_Net-join-us-on-Telegram, server: 104.17.184.241, port: 80, type: vmess, uuid: bf3d038a-93a2-4e24-886c-6bc64e3c3a90, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: de5c589510d24ae39f70d84844665305_@_t.me/ConfigsHub, server: 0000:0000:0000:0000:0000:ffff:6810:0000, port: 80, type: vmess, uuid: 1f310f26-08cf-482e-80ee-5cd62f4fc6b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /xui}, udp: true}
+  - {name: 2bf4aaded8574df9b8d4a12fe31052bc_@_t.me/ConfigsHub, server: glasco.fx-trader.shop, port: 80, type: vmess, uuid: f256a3ae-0f85-4a1d-d0cd-2d0b4b73f4f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: glasco.fx-trader.shop}}, udp: true}
+  - {name: 49ed9392007d4a7a8f467077aa17595a_@_t.me/ConfigsHub, server: 45.58.153.24, port: 30000, type: vmess, uuid: 4242f9e0-6b7e-4257-9e93-7ad38015c46a, alterId: 64, cipher: aes-128-gcm, tls: true, skip-cert-verify: true, servername: www.77935707.xyz, network: ws, ws-opts: {path: /path/1702392255355}, udp: true}
+  - {name: c50d08aefa874770911a4408b30667d0_@_t.me/ConfigsHub, server: 172.67.64.215, port: 80, type: vmess, uuid: 62b024bb-3e45-41eb-e8ff-60502a4e791d, alterId: 0, cipher: aes-128-gcm, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /vui2}, udp: true}
+  - {name: 387532e7045549b08883e470161a8a91_@_@Hope_Net-join-us-on-Telegram, server: 172.66.47.74, port: 80, type: vmess, uuid: 3339ad80-7964-438a-8622-b565112df7cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray,@AfV2ray?ed=2048"}, udp: true}
+  - {name: 501f3f855c6b4ce99169a240baee7ac5_@_@Hope_Net-join-us-on-Telegram, server: obdii.cfd, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}, udp: true}
+  - {name: 027995dc414b4e84ad395879d404f32e_@_@Hope_Net-join-us-on-Telegram, server: alvvin.click, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: alvvin.click, network: ws, ws-opts: {path: linkvws, headers: {Host: alvvin.click}}, udp: true}
+  - {name: 321ef1c18a9546a9bfeff1db4fbbcdde_@_@Hope_Net-join-us-on-Telegram, server: 104.234.11.159, port: 80, type: vmess, uuid: 48d0d388-ea9d-48f4-929c-e53d7ecb46ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /48d0d388}, udp: true}
+  - {name: c0afb98e6ff7480c94b0364c7e3b9647_@_@Hope_Net-join-us-on-Telegram, server: forward4444.maryam1500.top, port: 2087, type: vmess, uuid: b4e01707-8a8a-449a-a185-859c603ec329, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: grpc, servername: forward4444.maryam1500.top, grpc-opts: {grpc-service-name: /}, udp: true}
+  - {name: 2ffa76c13cd04b58b7d2a5aea2591378_@_@Hope_Net-join-us-on-Telegram, server: 172.67.160.99, port: 443, type: vmess, uuid: a869c557-5c7d-426f-9039-0279c16352bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vmessws}, udp: true}
+  - {name: 84940cf8dcf34ff2ad8332e7aaa55dfd_@_t.me/ConfigsHub, server: db1e3fa2-9236-43f2-835a-4e98d32a0790.xn--yusw35d.xyz, port: 50904, type: vmess, uuid: 8d2e5158-93d7-4d71-9d4f-2defb0b78eee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: db1e3fa2-9236-43f2-835a-4e98d32a0790.xn--yusw35d.xyz}}, udp: true}
+  - {name: 7e73b5087d614f4c90f2c068f0b46364_@_@Hope_Net-join-us-on-Telegram, server: 104.21.91.73, port: 443, type: vmess, uuid: 45f63e92-f782-4cac-84b8-e61cb5a5bfd0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: adenc35.fixedlfoat.top, network: ws, ws-opts: {path: /linkws}, udp: true}
+  - {name: afc942306eab4259b1cd765d8753cea2_@_@Hope_Net-join-us-on-Telegram, server: 172.67.184.53, port: 8443, type: vmess, uuid: 1cec1ebc-b489-4769-f2d9-e079b5832a60, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /cloudconeaaa}, udp: true}
+  - {name: 8d72a447f700475083b851ccd8cc3ca9_@_@Hope_Net-join-us-on-Telegram, server: 172.67.188.110, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 818eeba234fc477b97ff60da17019ef5_@_@Hope_Net-join-us-on-Telegram, server: 172.67.189.8, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
+  - {name: 46fd07a185af43c3819acec537540fb9_@_@Hope_Net-join-us-on-Telegram, server: 172.67.19.97, port: 2095, type: vmess, uuid: 417d27fb-cb93-3bd8-9bf7-71cd91319821, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hgcefomn}, udp: true}
   - {name: 更新于 01-08 09:39 by https://github.com/ts-sf/fly, server: 127.1.1.127, port: 80, type: vmess, uuid: 602736e4-a2e8-4eb3-9fc9-7c7082925365, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: NL荷兰, server: 156.225.67.232, port: 443, type: vmess, uuid: 93503dd5-245a-4eb1-ae2a-57ab9f2b3c29, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.47734647.xyz, network: ws, ws-opts: {path: /path/1691664136858, headers: {Host: www.47734647.xyz}}, udp: true}
   - {name: JP日本, server: 86jpjp.fr99kt.top, port: 80, type: vmess, uuid: ad13f574-f6b7-427e-bb29-224a07c56d10, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /rdg, headers: {Host: 86jpjp.fr99kt.top}}, udp: true}
@@ -1101,15 +1101,15 @@ proxy-groups:
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:806
       - SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379
-      - SS-德国:英国-locked-ChatGPT-TikTok-145.239.1.100:5601
-      - SS-德国:新加坡-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
+      - SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601
+      - SS-德国:法国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803
       - SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003
       - SS-波兰-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000
-      - SS-德国:法国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
+      - SS-德国:荷兰-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
       - SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443
@@ -1335,69 +1335,69 @@ proxy-groups:
       - 15|🇮🇳 印度|频道:@ripaojiedian
       - 16|香港1|@ripaojiedian
       - 16|日本|频道:@ripaojiedian
-      - cc610763d92c47fd9cdfcc503cc8d5a1_@_⚠️e@oneclickvpnkeys
-      - 4289b34ace414365ae669a10b232ef63_@_t.me/ConfigsHub
-      - bd289875f7614bab9c2878dcc0c732db_@_t.me/ConfigsHub
-      - 45e42651305f4f27aa22b2ff31593574_@_@Hope_Net-join-us-on-Telegram
-      - d66d80648ed54a269a1c48931577815c_@_@Hope_Net-join-us-on-Telegram
-      - 813d8150b5564470acca8af1aea5194e_@_@Hope_Net-join-us-on-Telegram
-      - b6e698abcb524c08ab6757d5a33737bf_@_@Hope_Net-join-us-on-Telegram
-      - a8d70b0eded74defb0639cd70c49b6b8_@_@Hope_Net-join-us-on-Telegram
-      - 517113ce67b04aaeaac2dd8206066378_@_@Hope_Net-join-us-on-Telegram
-      - cd267d1af7854fc18a798592f3b2db6e_@_@Hope_Net-join-us-on-Telegram
-      - 612b13538c81420b9a6592743109deec_@_@Hope_Net-join-us-on-Telegram
-      - 194d827971734e209d18513975ce0534_@_@Hope_Net-join-us-on-Telegram
-      - 2afa35241991448ca00411707036a769_@_@Hope_Net-join-us-on-Telegram
-      - 04c72b966adf445f9ee03841ad04db79_@_@Hope_Net-join-us-on-Telegram
-      - d80fa4074af549d69b0e9d0c562adcc4_@_@Hope_Net-join-us-on-Telegram
-      - d6fa1b3290744868a0ac0757f8ab3276_@_@Hope_Net-join-us-on-Telegram
-      - 02d5cc7855844b78a2b5310b445f3d96_@_@Hope_Net-join-us-on-Telegram
-      - 5e91d8f2ed174a8f84ed9a604aaf4b99_@_@Hope_Net-join-us-on-Telegram
-      - 6f2c1233ef224678886f20cb6e50c8a7_@_@Hope_Net-join-us-on-Telegram
-      - 7c0313e9c6c447bba52093ce259cdf9b_@_@Hope_Net-join-us-on-Telegram
-      - ca49c928186b45279f8cfb63930c3e5c_@_@Hope_Net-join-us-on-Telegram
-      - 3604356852dd4554b5857bb1eb51d626_@_@Hope_Net-join-us-on-Telegram
-      - db9dc993d2bc42d690e9bd117f0117cc_@_@Hope_Net-join-us-on-Telegram
-      - c99feafab4d94095a67a427a80235199_@_@Hope_Net-join-us-on-Telegram
-      - 4b0c5f77cd334ecd9111badf863237c4_@_@Hope_Net-join-us-on-Telegram
-      - 150e911445ad42a6b1b78f7dcf2d453b_@_🚸9@oneclickvpnkeys
-      - 5b3790b9250e4a8588879aa6d9039a7c_@_@Hope_Net-join-us-on-Telegram
-      - 18e712ecbe5e456d8ca451fa46cb5e1e_@_@Hope_Net-join-us-on-Telegram
-      - cc1f192977b34de4a0cd253367f54868_@_@Hope_Net-join-us-on-Telegram
-      - 26b251b031fe4174ac3d0c4a08f92c3d_@_@Hope_Net-join-us-on-Telegram
-      - ff63e0239ced43c181e668e4b095ea0b_@_@Hope_Net-join-us-on-Telegram
-      - 9d0aff4370434ad89294d1faa4acca2b_@_@Hope_Net-join-us-on-Telegram
-      - 27848243ef884adc8e0874acbdc4355b_@_@Hope_Net-join-us-on-Telegram
-      - 050e5a96c66a422b9fa9df23bfef9b81_@_⛔10@oneclickvpnkeys
-      - b80185335e0e42088610419d0d2aed61_@_@Hope_Net-join-us-on-Telegram
-      - 0e87ecd37973408dba0cccbe05696c27_@_@Hope_Net-join-us-on-Telegram
-      - 2ef3b76eb11e4198a84e343d624973a9_@_@Hope_Net-join-us-on-Telegram
-      - 252fd345ad2b4235a04c2e6046c6c77e_@_@Hope_Net-join-us-on-Telegram
-      - cc89947a8e72485287bd0d852ee807c8_@_@Hope_Net-join-us-on-Telegram
-      - 6d66938a299d4ba7aec70234de319495_@_@Hope_Net-join-us-on-Telegram
-      - 08fe6f5ac5d54f59a350c0d1b2d802b2_@_@Hope_Net-join-us-on-Telegram
-      - 9726ac36b8ec4ac58d1021ae5dda3937_@_@Hope_Net-join-us-on-Telegram
-      - 032074cb4099437c863b4af1da7863ad_@_@Hope_Net-join-us-on-Telegram
-      - d91007f789d14e558d19239e6cf03aba_@_@Hope_Net-join-us-on-Telegram
-      - efaa902e41254ccf95dc59fea45e0545_@_@Hope_Net-join-us-on-Telegram
-      - 7b9cb7e04e404249a168d526500ba178_@_@Hope_Net-join-us-on-Telegram
-      - e869c663653f44a1bf41c04aa860e564_@_@Hope_Net-join-us-on-Telegram
-      - 1bb3403c3b4948a3b95e55200f8fa36f_@_t.me/ConfigsHub
-      - 58aba483a32b4f7789312208df00b294_@_t.me/ConfigsHub
-      - 954306cc806542a684fe158d120489c8_@_t.me/ConfigsHub
-      - 7190c2d27510425ea96e442356ad0e56_@_t.me/ConfigsHub
-      - a39e516e29434ff6a836fc989d840f9b_@_@Hope_Net-join-us-on-Telegram
-      - bf6bad56633d42229f5e929f1bcc02f2_@_@Hope_Net-join-us-on-Telegram
-      - 588e6e745c1f4e7eaf9bba9a811c6431_@_@Hope_Net-join-us-on-Telegram
-      - 09b9857fc0684ddcb63861d50ec08056_@_@Hope_Net-join-us-on-Telegram
-      - 0c132400566f42a8adf00bde3fecdc36_@_@Hope_Net-join-us-on-Telegram
-      - c4b2dd63c7c349589bf0edd906c066af_@_@Hope_Net-join-us-on-Telegram
-      - 881c87e3b29446d19b4274f32800ecbc_@_t.me/ConfigsHub
-      - 76e7c178bef94ae9949007a3efbe7b7e_@_@Hope_Net-join-us-on-Telegram
-      - e351ac8a9cc74d98aaa7ff80d526b149_@_@Hope_Net-join-us-on-Telegram
-      - dca9e1a7639a4e7ca21e0f7cce2a0783_@_@Hope_Net-join-us-on-Telegram
-      - a419304ec7404668b36dfbe03f4afa60_@_@Hope_Net-join-us-on-Telegram
-      - 2599c83eb16d4648a5ae13b0c26593d9_@_@Hope_Net-join-us-on-Telegram
+      - a8dec46b15914051a787044fbd9ef265_@_⚠️e@oneclickvpnkeys
+      - b7dda48ce45643758272e4ac41bd1aa8_@_t.me/ConfigsHub
+      - 786895e3ce834580962a73bf054cfd15_@_t.me/ConfigsHub
+      - fd33270a96e040779b178766383c9b8b_@_@Hope_Net-join-us-on-Telegram
+      - 3050e69325d94bd789230e4dbce3641d_@_@Hope_Net-join-us-on-Telegram
+      - caec79705a3a4129ba233edb2ee32d2d_@_@Hope_Net-join-us-on-Telegram
+      - 07267fd15cc04c7da90aa7130ace9d1f_@_@Hope_Net-join-us-on-Telegram
+      - c231f97e793c415dbc3842d8ac8aaf9d_@_@Hope_Net-join-us-on-Telegram
+      - 9a82feadf0904648a560e7fcf2c0149c_@_@Hope_Net-join-us-on-Telegram
+      - dd7ad423a7584fdaa9943b1121c33b5a_@_@Hope_Net-join-us-on-Telegram
+      - b04609e2c8244e7993cac235a1710ee4_@_@Hope_Net-join-us-on-Telegram
+      - 1ac2b23387b74e05abca1dcc4b93c82e_@_@Hope_Net-join-us-on-Telegram
+      - 4776464cb50a4336a17db7d12ad47639_@_@Hope_Net-join-us-on-Telegram
+      - 5416ea0399bc45a59f5baf4c6661062b_@_@Hope_Net-join-us-on-Telegram
+      - b65addb6155d433d8855ae148d624d2a_@_@Hope_Net-join-us-on-Telegram
+      - 5e4dcca310014b208896f0dcaa9d1994_@_@Hope_Net-join-us-on-Telegram
+      - e38b28d83f9943d7ad80a55e303632cb_@_@Hope_Net-join-us-on-Telegram
+      - fbb4da5a619a45618b47f549687716d4_@_@Hope_Net-join-us-on-Telegram
+      - 9ed5deae72074cde8e096b71a4bb123a_@_@Hope_Net-join-us-on-Telegram
+      - 0fe4e19f49644c6296fc12480fc71f51_@_@Hope_Net-join-us-on-Telegram
+      - 0d67ab08834147bfa4d4ac45736daca2_@_@Hope_Net-join-us-on-Telegram
+      - d0fcc462152545618598b9c4c23cb829_@_@Hope_Net-join-us-on-Telegram
+      - ebc6159b35ba4963b0537d58184ddd41_@_@Hope_Net-join-us-on-Telegram
+      - 404a9b8a2469488e9aecd5be2637aa20_@_@Hope_Net-join-us-on-Telegram
+      - 1ca41acc931f46aca7ab24e6fd78250f_@_@Hope_Net-join-us-on-Telegram
+      - acee27b659da4884891238dfba8021c0_@_🚸9@oneclickvpnkeys
+      - 1a118c1e54a24e299fb04200186321d4_@_@Hope_Net-join-us-on-Telegram
+      - de609b406da6431e90bf2c5e65861f90_@_@Hope_Net-join-us-on-Telegram
+      - ab14a33cf4814b6bb3fe7c3984c01b50_@_@Hope_Net-join-us-on-Telegram
+      - 4c5e59c2bc1e430fa439bce58163d3e4_@_@Hope_Net-join-us-on-Telegram
+      - 9f8d1049aeda4a0095bdad83db7dc4b0_@_@Hope_Net-join-us-on-Telegram
+      - 510bd6466ab6435da6c8efd1284fef06_@_@Hope_Net-join-us-on-Telegram
+      - 7271239b277346ac809503c058ab5ef4_@_@Hope_Net-join-us-on-Telegram
+      - c849a20b751947639d693c7f9fed1deb_@_⛔10@oneclickvpnkeys
+      - 7a8bee4060674dccbd4f115ab9f99275_@_@Hope_Net-join-us-on-Telegram
+      - 67fa8b0974e142a8ba4754cbeab3609b_@_@Hope_Net-join-us-on-Telegram
+      - 94ec0198e2e54b59a0cabe84da8a3cfa_@_@Hope_Net-join-us-on-Telegram
+      - 3df754fe6b23440d910a78a7ad8b7a74_@_@Hope_Net-join-us-on-Telegram
+      - 277ecd65d0d74e74a6420cf03744540a_@_@Hope_Net-join-us-on-Telegram
+      - 39a82b11b31a422c85db0eeeb630932e_@_@Hope_Net-join-us-on-Telegram
+      - d2233982df5e41d4b9e90133f7506dfb_@_@Hope_Net-join-us-on-Telegram
+      - 28570ec520474b4baf857a231144a0b1_@_@Hope_Net-join-us-on-Telegram
+      - 02fca9e37c3a4e60b92638cd0f7af3ea_@_@Hope_Net-join-us-on-Telegram
+      - 67095600708d451ba2143a702a99fad7_@_@Hope_Net-join-us-on-Telegram
+      - 360f6faa86fd48be8e0fd4670aeef437_@_@Hope_Net-join-us-on-Telegram
+      - cf00c6eafacd46f6a27d5203e514c099_@_@Hope_Net-join-us-on-Telegram
+      - a5a72e205f08422eb98987808128057d_@_@Hope_Net-join-us-on-Telegram
+      - de5c589510d24ae39f70d84844665305_@_t.me/ConfigsHub
+      - 2bf4aaded8574df9b8d4a12fe31052bc_@_t.me/ConfigsHub
+      - 49ed9392007d4a7a8f467077aa17595a_@_t.me/ConfigsHub
+      - c50d08aefa874770911a4408b30667d0_@_t.me/ConfigsHub
+      - 387532e7045549b08883e470161a8a91_@_@Hope_Net-join-us-on-Telegram
+      - 501f3f855c6b4ce99169a240baee7ac5_@_@Hope_Net-join-us-on-Telegram
+      - 027995dc414b4e84ad395879d404f32e_@_@Hope_Net-join-us-on-Telegram
+      - 321ef1c18a9546a9bfeff1db4fbbcdde_@_@Hope_Net-join-us-on-Telegram
+      - c0afb98e6ff7480c94b0364c7e3b9647_@_@Hope_Net-join-us-on-Telegram
+      - 2ffa76c13cd04b58b7d2a5aea2591378_@_@Hope_Net-join-us-on-Telegram
+      - 84940cf8dcf34ff2ad8332e7aaa55dfd_@_t.me/ConfigsHub
+      - 7e73b5087d614f4c90f2c068f0b46364_@_@Hope_Net-join-us-on-Telegram
+      - afc942306eab4259b1cd765d8753cea2_@_@Hope_Net-join-us-on-Telegram
+      - 8d72a447f700475083b851ccd8cc3ca9_@_@Hope_Net-join-us-on-Telegram
+      - 818eeba234fc477b97ff60da17019ef5_@_@Hope_Net-join-us-on-Telegram
+      - 46fd07a185af43c3819acec537540fb9_@_@Hope_Net-join-us-on-Telegram
       - 更新于 01-08 09:39 by https://github.com/ts-sf/fly
       - NL荷兰
       - JP日本
@@ -2182,15 +2182,15 @@ proxy-groups:
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:806
       - SS-波兰-locked-ChatGPT-TikTok-51.77.53.200:2376
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:6379
-      - SS-德国:英国-locked-ChatGPT-TikTok-145.239.1.100:5601
-      - SS-德国:新加坡-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
+      - SS-德国:荷兰-locked-ChatGPT-TikTok-145.239.1.100:5601
+      - SS-德国:法国-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
       - SS-加拿大-自制NF-ChatGPT-TikTok-YouTubePrem-134.195.196.178:803
       - SS-英国-自制NF-ChatGPT-TikTok-YouTubePrem-212.102.53.81:443
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-167.88.61.175:5003
       - SS-波兰-locked-ChatGPT-TikTok-YouTubePrem-51.77.53.200:8090
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:5601
       - SS-美国-自制NF-ChatGPT-TikTok-YouTubePrem-38.143.66.87:5000
-      - SS-德国:法国-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
+      - SS-德国:荷兰-locked-ChatGPT-TikTok-YouTubePrem-145.239.1.100:5001
       - SS-美国-自制NF-ChatGPT-YouTubePrem-38.75.136.21:5000
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:3306
       - SS-法国:波兰-locked-ChatGPT-TikTok-YouTubePrem-54.36.174.181:443
@@ -2416,69 +2416,69 @@ proxy-groups:
       - 15|🇮🇳 印度|频道:@ripaojiedian
       - 16|香港1|@ripaojiedian
       - 16|日本|频道:@ripaojiedian
-      - cc610763d92c47fd9cdfcc503cc8d5a1_@_⚠️e@oneclickvpnkeys
-      - 4289b34ace414365ae669a10b232ef63_@_t.me/ConfigsHub
-      - bd289875f7614bab9c2878dcc0c732db_@_t.me/ConfigsHub
-      - 45e42651305f4f27aa22b2ff31593574_@_@Hope_Net-join-us-on-Telegram
-      - d66d80648ed54a269a1c48931577815c_@_@Hope_Net-join-us-on-Telegram
-      - 813d8150b5564470acca8af1aea5194e_@_@Hope_Net-join-us-on-Telegram
-      - b6e698abcb524c08ab6757d5a33737bf_@_@Hope_Net-join-us-on-Telegram
-      - a8d70b0eded74defb0639cd70c49b6b8_@_@Hope_Net-join-us-on-Telegram
-      - 517113ce67b04aaeaac2dd8206066378_@_@Hope_Net-join-us-on-Telegram
-      - cd267d1af7854fc18a798592f3b2db6e_@_@Hope_Net-join-us-on-Telegram
-      - 612b13538c81420b9a6592743109deec_@_@Hope_Net-join-us-on-Telegram
-      - 194d827971734e209d18513975ce0534_@_@Hope_Net-join-us-on-Telegram
-      - 2afa35241991448ca00411707036a769_@_@Hope_Net-join-us-on-Telegram
-      - 04c72b966adf445f9ee03841ad04db79_@_@Hope_Net-join-us-on-Telegram
-      - d80fa4074af549d69b0e9d0c562adcc4_@_@Hope_Net-join-us-on-Telegram
-      - d6fa1b3290744868a0ac0757f8ab3276_@_@Hope_Net-join-us-on-Telegram
-      - 02d5cc7855844b78a2b5310b445f3d96_@_@Hope_Net-join-us-on-Telegram
-      - 5e91d8f2ed174a8f84ed9a604aaf4b99_@_@Hope_Net-join-us-on-Telegram
-      - 6f2c1233ef224678886f20cb6e50c8a7_@_@Hope_Net-join-us-on-Telegram
-      - 7c0313e9c6c447bba52093ce259cdf9b_@_@Hope_Net-join-us-on-Telegram
-      - ca49c928186b45279f8cfb63930c3e5c_@_@Hope_Net-join-us-on-Telegram
-      - 3604356852dd4554b5857bb1eb51d626_@_@Hope_Net-join-us-on-Telegram
-      - db9dc993d2bc42d690e9bd117f0117cc_@_@Hope_Net-join-us-on-Telegram
-      - c99feafab4d94095a67a427a80235199_@_@Hope_Net-join-us-on-Telegram
-      - 4b0c5f77cd334ecd9111badf863237c4_@_@Hope_Net-join-us-on-Telegram
-      - 150e911445ad42a6b1b78f7dcf2d453b_@_🚸9@oneclickvpnkeys
-      - 5b3790b9250e4a8588879aa6d9039a7c_@_@Hope_Net-join-us-on-Telegram
-      - 18e712ecbe5e456d8ca451fa46cb5e1e_@_@Hope_Net-join-us-on-Telegram
-      - cc1f192977b34de4a0cd253367f54868_@_@Hope_Net-join-us-on-Telegram
-      - 26b251b031fe4174ac3d0c4a08f92c3d_@_@Hope_Net-join-us-on-Telegram
-      - ff63e0239ced43c181e668e4b095ea0b_@_@Hope_Net-join-us-on-Telegram
-      - 9d0aff4370434ad89294d1faa4acca2b_@_@Hope_Net-join-us-on-Telegram
-      - 27848243ef884adc8e0874acbdc4355b_@_@Hope_Net-join-us-on-Telegram
-      - 050e5a96c66a422b9fa9df23bfef9b81_@_⛔10@oneclickvpnkeys
-      - b80185335e0e42088610419d0d2aed61_@_@Hope_Net-join-us-on-Telegram
-      - 0e87ecd37973408dba0cccbe05696c27_@_@Hope_Net-join-us-on-Telegram
-      - 2ef3b76eb11e4198a84e343d624973a9_@_@Hope_Net-join-us-on-Telegram
-      - 252fd345ad2b4235a04c2e6046c6c77e_@_@Hope_Net-join-us-on-Telegram
-      - cc89947a8e72485287bd0d852ee807c8_@_@Hope_Net-join-us-on-Telegram
-      - 6d66938a299d4ba7aec70234de319495_@_@Hope_Net-join-us-on-Telegram
-      - 08fe6f5ac5d54f59a350c0d1b2d802b2_@_@Hope_Net-join-us-on-Telegram
-      - 9726ac36b8ec4ac58d1021ae5dda3937_@_@Hope_Net-join-us-on-Telegram
-      - 032074cb4099437c863b4af1da7863ad_@_@Hope_Net-join-us-on-Telegram
-      - d91007f789d14e558d19239e6cf03aba_@_@Hope_Net-join-us-on-Telegram
-      - efaa902e41254ccf95dc59fea45e0545_@_@Hope_Net-join-us-on-Telegram
-      - 7b9cb7e04e404249a168d526500ba178_@_@Hope_Net-join-us-on-Telegram
-      - e869c663653f44a1bf41c04aa860e564_@_@Hope_Net-join-us-on-Telegram
-      - 1bb3403c3b4948a3b95e55200f8fa36f_@_t.me/ConfigsHub
-      - 58aba483a32b4f7789312208df00b294_@_t.me/ConfigsHub
-      - 954306cc806542a684fe158d120489c8_@_t.me/ConfigsHub
-      - 7190c2d27510425ea96e442356ad0e56_@_t.me/ConfigsHub
-      - a39e516e29434ff6a836fc989d840f9b_@_@Hope_Net-join-us-on-Telegram
-      - bf6bad56633d42229f5e929f1bcc02f2_@_@Hope_Net-join-us-on-Telegram
-      - 588e6e745c1f4e7eaf9bba9a811c6431_@_@Hope_Net-join-us-on-Telegram
-      - 09b9857fc0684ddcb63861d50ec08056_@_@Hope_Net-join-us-on-Telegram
-      - 0c132400566f42a8adf00bde3fecdc36_@_@Hope_Net-join-us-on-Telegram
-      - c4b2dd63c7c349589bf0edd906c066af_@_@Hope_Net-join-us-on-Telegram
-      - 881c87e3b29446d19b4274f32800ecbc_@_t.me/ConfigsHub
-      - 76e7c178bef94ae9949007a3efbe7b7e_@_@Hope_Net-join-us-on-Telegram
-      - e351ac8a9cc74d98aaa7ff80d526b149_@_@Hope_Net-join-us-on-Telegram
-      - dca9e1a7639a4e7ca21e0f7cce2a0783_@_@Hope_Net-join-us-on-Telegram
-      - a419304ec7404668b36dfbe03f4afa60_@_@Hope_Net-join-us-on-Telegram
-      - 2599c83eb16d4648a5ae13b0c26593d9_@_@Hope_Net-join-us-on-Telegram
+      - a8dec46b15914051a787044fbd9ef265_@_⚠️e@oneclickvpnkeys
+      - b7dda48ce45643758272e4ac41bd1aa8_@_t.me/ConfigsHub
+      - 786895e3ce834580962a73bf054cfd15_@_t.me/ConfigsHub
+      - fd33270a96e040779b178766383c9b8b_@_@Hope_Net-join-us-on-Telegram
+      - 3050e69325d94bd789230e4dbce3641d_@_@Hope_Net-join-us-on-Telegram
+      - caec79705a3a4129ba233edb2ee32d2d_@_@Hope_Net-join-us-on-Telegram
+      - 07267fd15cc04c7da90aa7130ace9d1f_@_@Hope_Net-join-us-on-Telegram
+      - c231f97e793c415dbc3842d8ac8aaf9d_@_@Hope_Net-join-us-on-Telegram
+      - 9a82feadf0904648a560e7fcf2c0149c_@_@Hope_Net-join-us-on-Telegram
+      - dd7ad423a7584fdaa9943b1121c33b5a_@_@Hope_Net-join-us-on-Telegram
+      - b04609e2c8244e7993cac235a1710ee4_@_@Hope_Net-join-us-on-Telegram
+      - 1ac2b23387b74e05abca1dcc4b93c82e_@_@Hope_Net-join-us-on-Telegram
+      - 4776464cb50a4336a17db7d12ad47639_@_@Hope_Net-join-us-on-Telegram
+      - 5416ea0399bc45a59f5baf4c6661062b_@_@Hope_Net-join-us-on-Telegram
+      - b65addb6155d433d8855ae148d624d2a_@_@Hope_Net-join-us-on-Telegram
+      - 5e4dcca310014b208896f0dcaa9d1994_@_@Hope_Net-join-us-on-Telegram
+      - e38b28d83f9943d7ad80a55e303632cb_@_@Hope_Net-join-us-on-Telegram
+      - fbb4da5a619a45618b47f549687716d4_@_@Hope_Net-join-us-on-Telegram
+      - 9ed5deae72074cde8e096b71a4bb123a_@_@Hope_Net-join-us-on-Telegram
+      - 0fe4e19f49644c6296fc12480fc71f51_@_@Hope_Net-join-us-on-Telegram
+      - 0d67ab08834147bfa4d4ac45736daca2_@_@Hope_Net-join-us-on-Telegram
+      - d0fcc462152545618598b9c4c23cb829_@_@Hope_Net-join-us-on-Telegram
+      - ebc6159b35ba4963b0537d58184ddd41_@_@Hope_Net-join-us-on-Telegram
+      - 404a9b8a2469488e9aecd5be2637aa20_@_@Hope_Net-join-us-on-Telegram
+      - 1ca41acc931f46aca7ab24e6fd78250f_@_@Hope_Net-join-us-on-Telegram
+      - acee27b659da4884891238dfba8021c0_@_🚸9@oneclickvpnkeys
+      - 1a118c1e54a24e299fb04200186321d4_@_@Hope_Net-join-us-on-Telegram
+      - de609b406da6431e90bf2c5e65861f90_@_@Hope_Net-join-us-on-Telegram
+      - ab14a33cf4814b6bb3fe7c3984c01b50_@_@Hope_Net-join-us-on-Telegram
+      - 4c5e59c2bc1e430fa439bce58163d3e4_@_@Hope_Net-join-us-on-Telegram
+      - 9f8d1049aeda4a0095bdad83db7dc4b0_@_@Hope_Net-join-us-on-Telegram
+      - 510bd6466ab6435da6c8efd1284fef06_@_@Hope_Net-join-us-on-Telegram
+      - 7271239b277346ac809503c058ab5ef4_@_@Hope_Net-join-us-on-Telegram
+      - c849a20b751947639d693c7f9fed1deb_@_⛔10@oneclickvpnkeys
+      - 7a8bee4060674dccbd4f115ab9f99275_@_@Hope_Net-join-us-on-Telegram
+      - 67fa8b0974e142a8ba4754cbeab3609b_@_@Hope_Net-join-us-on-Telegram
+      - 94ec0198e2e54b59a0cabe84da8a3cfa_@_@Hope_Net-join-us-on-Telegram
+      - 3df754fe6b23440d910a78a7ad8b7a74_@_@Hope_Net-join-us-on-Telegram
+      - 277ecd65d0d74e74a6420cf03744540a_@_@Hope_Net-join-us-on-Telegram
+      - 39a82b11b31a422c85db0eeeb630932e_@_@Hope_Net-join-us-on-Telegram
+      - d2233982df5e41d4b9e90133f7506dfb_@_@Hope_Net-join-us-on-Telegram
+      - 28570ec520474b4baf857a231144a0b1_@_@Hope_Net-join-us-on-Telegram
+      - 02fca9e37c3a4e60b92638cd0f7af3ea_@_@Hope_Net-join-us-on-Telegram
+      - 67095600708d451ba2143a702a99fad7_@_@Hope_Net-join-us-on-Telegram
+      - 360f6faa86fd48be8e0fd4670aeef437_@_@Hope_Net-join-us-on-Telegram
+      - cf00c6eafacd46f6a27d5203e514c099_@_@Hope_Net-join-us-on-Telegram
+      - a5a72e205f08422eb98987808128057d_@_@Hope_Net-join-us-on-Telegram
+      - de5c589510d24ae39f70d84844665305_@_t.me/ConfigsHub
+      - 2bf4aaded8574df9b8d4a12fe31052bc_@_t.me/ConfigsHub
+      - 49ed9392007d4a7a8f467077aa17595a_@_t.me/ConfigsHub
+      - c50d08aefa874770911a4408b30667d0_@_t.me/ConfigsHub
+      - 387532e7045549b08883e470161a8a91_@_@Hope_Net-join-us-on-Telegram
+      - 501f3f855c6b4ce99169a240baee7ac5_@_@Hope_Net-join-us-on-Telegram
+      - 027995dc414b4e84ad395879d404f32e_@_@Hope_Net-join-us-on-Telegram
+      - 321ef1c18a9546a9bfeff1db4fbbcdde_@_@Hope_Net-join-us-on-Telegram
+      - c0afb98e6ff7480c94b0364c7e3b9647_@_@Hope_Net-join-us-on-Telegram
+      - 2ffa76c13cd04b58b7d2a5aea2591378_@_@Hope_Net-join-us-on-Telegram
+      - 84940cf8dcf34ff2ad8332e7aaa55dfd_@_t.me/ConfigsHub
+      - 7e73b5087d614f4c90f2c068f0b46364_@_@Hope_Net-join-us-on-Telegram
+      - afc942306eab4259b1cd765d8753cea2_@_@Hope_Net-join-us-on-Telegram
+      - 8d72a447f700475083b851ccd8cc3ca9_@_@Hope_Net-join-us-on-Telegram
+      - 818eeba234fc477b97ff60da17019ef5_@_@Hope_Net-join-us-on-Telegram
+      - 46fd07a185af43c3819acec537540fb9_@_@Hope_Net-join-us-on-Telegram
       - 更新于 01-08 09:39 by https://github.com/ts-sf/fly
       - NL荷兰
       - JP日本
@@ -3790,7 +3790,6 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - SS-德国:新加坡-locked-ChatGPT-YouTubePrem-145.239.1.100:5500
       - 0,7,11,12,13|美国97〖电报：@ccbaohe】免费节点定时更新
       - "6,17|🇳🇿_NZ_新西兰 #1"
       - 10|🇸🇬新加坡04
